@@ -1,0 +1,21 @@
+created_At,customer,product,category,quantity,unit_Price
+2024-01-01,joao,gás p13,gas,2,120
+2024-01-01,Maria,GÁS P45,gas,1,350
+2024-01-02,carlos,Regulador,acessorio,1,80
+2024-01-02,ANA,gás p13,gas,3,118
+2024-01-03,Pedro,gás P45,gas,1,360
+2024-01-03,luiza,mangueira,acessorio,2,35
+2024-01-04,João,gás p13,gas,0,120
+2024-01-04,roberta,GÁS P13,gas,2,119
+2024-01-05,Bruno,Regulador,acessorio,1,85
+2024-01-05,CARLA,gás p45,gas,1,355
+2024-01-06,marcos,mangueira,acessorio,3,30
+2024-01-06,Felipe,GÁS P13,gas,2,121
+2024-01-07,Ana Paula,gás p13,gas,-1,120
+2024-01-07,Diego,Regulador,acessorio,1,82
+2024-01-08,Renata,GÁS P45,gas,1,370
+2024-01-08,lucas,mangueira,acessorio,2,33
+2024-01-09,Patricia,gás p13,gas,2,117
+2024-01-09,Rafael,Regulador,acessorio,1,79
+2024-01-10,SANDRA,gás p45,gas,1,365
+2024-01-10,Thiago,mangueira,acessorio,1,34
