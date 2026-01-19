@@ -62,7 +62,7 @@ python src/main.py
 5. Após a execução, o arquivo processado será gerado em:
 data/output/billProcessed.csv
 
-Exemplo de saída
+Exemplo de saída:
 created_At,customer,product,category,quantity,unit_Price,total_Balance,product_Type
 01/01/2024,Joao,GÁS P13,gas,2,120,240,GAS
 02/01/2024,Ana,GÁS P13,gas,3,118,354,GAS
